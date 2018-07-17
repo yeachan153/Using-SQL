@@ -1,3 +1,3 @@
 # Using-SQL
 
-Here, I upload what I practice with SQL
+This repository contains a collection of Jupyter Notebook files where I practice using SQL.
